@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Twista
 
 This project aims to function as a web application for [Twitter Search API](https://developer.twitter.com/en/docs/twitter-api/v1/tweets/search/api-reference/get-search-tweets)
 
